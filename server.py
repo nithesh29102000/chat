@@ -9,3 +9,4 @@ while True:
     ss.sendto(a.encode(),add)
     
 
+wejgf
